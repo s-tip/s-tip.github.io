@@ -1,39 +1,22 @@
-## Welcome to GitHub Pages
+![S-TIP Icon](https://avatars1.githubusercontent.com/u/48343036?s=200&v=4)
 
-Ryu was here.
+S-TIP is now available on [github](https://github.com/s-tip) as OSS.
 
-You can use the [editor on GitHub](https://github.com/s-tip/s-tip.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Activity
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## FIRST 2019
 
-### Markdown
+[As Lightning Talk](https://www.first.org/conference/2019/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## CodeBlue 2019
 
-```markdown
-Syntax highlighted code block
+[As BlueBox (YouTube)](https://www.youtube.com/watch?v=pk1LhdSu350)
 
-# Header 1
-## Header 2
-### Header 3
+[As BlueBox (Share Slide)](https://www.slideshare.net/codeblue_jp/cb19-seamless-threat-intelligence-platform-stip-by-koji-yamada-toshitaka-satomi)
 
-- Bulleted
-- List
+## FIRST 2020
 
-1. Numbered
-2. List
+[As Virtual Session](https://www.first.org/conference/2020/)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s-tip/s-tip.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
