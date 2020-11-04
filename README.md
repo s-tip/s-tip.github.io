@@ -9,8 +9,8 @@ S-TIP is now available on [github](https://github.com/s-tip) as OSS.
 * [Lightning Talk](https://www.first.org/conference/2019/) at FIRST 2019
 
 * CodeBlue 2019
-** [As BlueBox (YouTube)](https://www.youtube.com/watch?v=pk1LhdSu350)
-** [As BlueBox (Share Slide)](https://www.slideshare.net/codeblue_jp/cb19-seamless-threat-intelligence-platform-stip-by-koji-yamada-toshitaka-satomi)
+  * [As BlueBox (YouTube)](https://www.youtube.com/watch?v=pk1LhdSu350)
+  * [As BlueBox (Share Slide)](https://www.slideshare.net/codeblue_jp/cb19-seamless-threat-intelligence-platform-stip-by-koji-yamada-toshitaka-satomi)
 
 ## FIRST 2020
 
