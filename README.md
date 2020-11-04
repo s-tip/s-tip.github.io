@@ -1,8 +1,9 @@
 ![S-TIP Icon](https://avatars1.githubusercontent.com/u/48343036?s=200&v=4)
 
-[Add a short description of S-TIP]
+Seamless Threat Intelligence Platform (S-TIP) realizes seamless integration of human CTI (Cyber Threat Inntelignce) and system CIT for the cyber defenders to store, share, and utilize CTI that comes in many forms. S-TIP enables it through its storing any CTI in a structured CTI format (currently STIX) and producing CTI dynamicall in appropriate formats for CTI consumers. 
 
-S-TIP is now available on [github](https://github.com/s-tip) as OSS.
+S-TIP consists of four modules - stip-sns, stip-rs, stip-common, and stip-gv.
+S-TIP is available [here](https://github.com/s-tip) as OSS. For more details including installation on S-TIP, please check [here](https://github.com/s-tip/stip-commons) .
 
 # Activity
 
