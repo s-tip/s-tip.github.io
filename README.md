@@ -13,4 +13,4 @@ S-TIP is now available on [github](https://github.com/s-tip) as OSS.
   * [YouTube Video](https://www.youtube.com/watch?v=pk1LhdSu350)
   * [Share Slide](https://www.slideshare.net/codeblue_jp/cb19-seamless-threat-intelligence-platform-stip-by-koji-yamada-toshitaka-satomi)
 
-* Lightning Talk on i18n (internationalization) of STIX at [FIRST 2019](https://www.first.org/conference/2019/)
+* S-TIP demo and a lightning talk on i18n (internationalization) of STIX at [FIRST Annual Conference 2019](https://www.first.org/conference/2019/)
