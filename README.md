@@ -1,6 +1,6 @@
-![S-TIP Icon](https://github.com/s-tip/stip-common/blob/master/img/stip-logo.png?raw=true "Title" {width=100px height=100px})
+![S-TIP Icon](https://raw.githubusercontent.com/s-tip/s-tip.github.io/main/img/s-tip-logo-transparent-background.png  "Title" {width=100px height=100px})
 
-<img src="https://github.com/s-tip/stip-common/blob/master/img/stip-logo.png?raw=true" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/s-tip/s-tip.github.io/main/img/s-tip-logo-transparent-background.png" width="50" height="50" />
 
 Seamless Threat Intelligence Platform (S-TIP) realizes seamless integration of human CTI (Cyber Threat Intellignce) and system CTI for the cyber defenders to store, share, and utilize CTI that comes in many forms. S-TIP enables it through its storing any CTI in a structured CTI format (currently [STIX 2.1](https://docs.oasis-open.org/cti/stix/v2.1/csprd01/stix-v2.1-csprd01.html)) and producing CTI dynamicall in appropriate formats for CTI consumers. 
 
