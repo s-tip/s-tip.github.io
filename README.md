@@ -1,4 +1,4 @@
-![S-TIP Icon](https://github.com/s-tip/stip-common/blob/master/img/stip-logo.png?raw=true =50x50)
+![S-TIP Icon](https://github.com/s-tip/stip-common/blob/master/img/stip-logo.png?raw=true "Title" {width=100px height=100px})
 
 <img src="https://github.com/s-tip/stip-common/blob/master/img/stip-logo.png?raw=true" width="50" height="50" />
 
