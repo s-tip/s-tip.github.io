@@ -1,4 +1,4 @@
-![S-TIP Icon](https://raw.githubusercontent.com/s-tip/s-tip.github.io/main/img/s-tip-logo-transparent-background.png  "Title" {width=100px height=100px})
+![S-TIP Icon](https://raw.githubusercontent.com/s-tip/s-tip.github.io/main/img/s-tip-logo-transparent-background.png)
 
 <img src="https://raw.githubusercontent.com/s-tip/s-tip.github.io/main/img/s-tip-logo-transparent-background.png" width="50" height="50" />
 
