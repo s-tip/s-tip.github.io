@@ -13,7 +13,7 @@ S-TIP is available [here](https://github.com/s-tip) as OSS. For more details inc
   <a href="https://github.com/s-tip/stip-common/wiki"><strong>Visit Here to Start!</strong></a>
 </span>
 </div>
-
+&nbsp;  
 
 # Activity
 
