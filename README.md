@@ -9,8 +9,8 @@ S-TIP consists of four main modules ([stip-common](https://github.com/s-tip/stip
 S-TIP is available [here](https://github.com/s-tip) as OSS. For more details including installation of S-TIP locally and on cloud, please check [here](https://github.com/s-tip/stip-common/wiki).
 
 <div style="text-align:center">
-<span style="font-family:Papyrus; font-size:3em;">
-[**Visit Here to Start!**](https://github.com/s-tip/stip-common/wiki)
+<span style="font-size:3em;">
+  <a href="https://github.com/s-tip/stip-common/wiki"><strong>Visit Here to Start!</strong></a>
 </span>
 </div>
 
