@@ -14,6 +14,7 @@ S-TIP is available [here](https://github.com/s-tip) as OSS. For more details inc
 </span>
 </div>
 
+
 # Activity
 
 * Talk on S-TIP Core Concept at [32nd FIRST Annual Conference - Virtual Edition](https://www.first.org/conference/2020/) (Coming soon - Nov. 18)
