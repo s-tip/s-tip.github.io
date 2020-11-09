@@ -8,7 +8,7 @@ Seamless Threat Intelligence Platform (S-TIP) realizes seamless integration of h
 S-TIP consists of four main modules ([stip-common](https://github.com/s-tip/stip-common), [stip-rs](https://github.com/s-tip/stip-rs), [stip-sns](https://github.com/s-tip/stip-sns), and [stip-gv](https://github.com/s-tip/stip-gv)) and two optional modules ([stip-txs](https://github.com/s-tip/stip-txs) and [stip-txs2](https://github.com/s-tip/stip-txs2)).
 S-TIP is available [here](https://github.com/s-tip) as OSS. For more details including installation of S-TIP locally and on cloud, please check [here](https://github.com/s-tip/stip-common/wiki).
 
-<span style="font-family:Papyrus; font-size:4em;">
+<span style="color:red; font-size:20pt;">
 <a href="https://github.com/s-tip/stip-common/wiki">Visit Here to Start!</a>
 </span>
 
