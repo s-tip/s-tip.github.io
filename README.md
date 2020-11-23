@@ -17,7 +17,7 @@ S-TIP is available [here](https://github.com/s-tip) as OSS. For more details inc
 
 # Presentations and Demostrations
 
-* Talk on S-TIP Core Concept at [32nd FIRST Annual Conference - Virtual Edition](https://www.first.org/conference/2020/) (Coming soon - Nov. 18)
+* Talk on S-TIP Core Concept at [32nd FIRST Annual Conference - Virtual Edition](https://www.first.org/conference/2020/) (Nov. 18, 2020)
 
 * S-TIP was featured in ["Classifying Coronavirus Related Cyber Threat"](https://vimeo.com/476148093) by Takahiro Takeda, LAC at [PACSEC](https://pacsec.jp/) (starting at 37:45 in the video)
 
