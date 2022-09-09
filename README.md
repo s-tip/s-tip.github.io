@@ -17,7 +17,9 @@ S-TIP is available [here](https://github.com/s-tip) as OSS. For more details inc
 
 # Activity
 
-* Talk on S-TIP Core Concept at [32nd FIRST Annual Conference - Virtual Edition](https://www.first.org/conference/2020/) (Coming soon - Nov. 18)
+* Bridging Together Independent Islands - STIX Custom Objects and Matching Mechanisms to Correlate Cyberspace and Real-World Data [34h FIRST Annual Conference](https://youtu.be/pis1O00QEUc)
+
+* Talk on S-TIP Core Concept at [32nd FIRST Annual Conference - Virtual Edition](https://youtu.be/yAbQGujDMV8)
 
 * [Bluebox Presentation on S-TIP](https://codeblue.jp/2019/en/bluebox/S-TIP/) at [Code Blue 2019](https://codeblue.jp/2019/en/)
   * [YouTube Video](https://www.youtube.com/watch?v=pk1LhdSu350)
