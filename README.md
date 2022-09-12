@@ -18,9 +18,10 @@ S-TIP is available [here](https://github.com/s-tip) as OSS. For more details inc
 
 # Presentations and Demostrations
 
-* Talk on S-TIP Core Concept at [32nd FIRST Annual Conference - Virtual Edition](https://www.first.org/conference/2020/) (Nov. 18, 2020)
 
-* S-TIP was featured in ["Classifying Coronavirus Related Cyber Threat"](https://vimeo.com/476148093) by Takahiro Takeda, LAC at [PACSEC](https://pacsec.jp/) (starting at 37:45 in the video)
+* Bridging Together Independent Islands - STIX Custom Objects and Matching Mechanisms to Correlate Cyberspace and Real-World Data [34h FIRST Annual Conference](https://youtu.be/pis1O00QEUc)
+
+* Talk on S-TIP Core Concept at [32nd FIRST Annual Conference - Virtual Edition](https://youtu.be/yAbQGujDMV8)
 
 * [Bluebox Presentation on S-TIP](https://codeblue.jp/2019/en/bluebox/S-TIP/) at [Code Blue 2019](https://codeblue.jp/2019/en/)
   * [YouTube Video](https://www.youtube.com/watch?v=pk1LhdSu350)
